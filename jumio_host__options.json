@@ -1,0 +1,12 @@
+{
+    "CheckboxParameter": [
+        {
+          "key": "to_EEUU",
+          "value": "netverify.com"
+        },
+        {
+          "key": "to_SINGAPORE",
+          "value": "core-sgp.jumio.com"
+        }
+      ]
+    }

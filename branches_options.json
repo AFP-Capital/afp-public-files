@@ -1,0 +1,20 @@
+{
+    "CheckboxParameter": [
+        {
+          "key": "dev",
+          "value": "value-3"
+        },
+        {
+          "key": "qa",
+          "value": "qa"
+        },
+        {
+          "key": "beta",
+          "value": "beta"
+        },
+        {
+          "key": "beta",
+          "value": "beta"
+        }
+      ]
+    }
