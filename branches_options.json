@@ -2,7 +2,7 @@
     "CheckboxParameter": [
         {
           "key": "dev",
-          "value": "value-3"
+          "value": "dev"
         },
         {
           "key": "qa",
