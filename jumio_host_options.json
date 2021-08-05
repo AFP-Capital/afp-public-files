@@ -7,6 +7,10 @@
         {
           "key": "to_EUROPE",
           "value": "EUROPE"
+        },
+        {
+          "key": "to_FAKE",
+          "value": "FAKE"
         }
       ]
     }
