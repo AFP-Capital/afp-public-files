@@ -9,12 +9,8 @@
           "value": "qa"
         },
         {
-          "key": "beta",
-          "value": "beta"
-        },
-        {
-          "key": "master",
-          "value": "master"
+          "key": "main",
+          "value": "main"
         }
       ]
     }
