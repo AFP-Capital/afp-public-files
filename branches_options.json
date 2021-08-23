@@ -9,6 +9,10 @@
           "value": "qa"
         },
         {
+          "key": "beta",
+          "value": "beta"
+        },
+        {
           "key": "main",
           "value": "main"
         }
