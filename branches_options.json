@@ -13,8 +13,8 @@
           "value": "beta"
         },
         {
-          "key": "main",
-          "value": "main"
+          "key": "prod",
+          "value": "prod"
         }
       ]
     }
